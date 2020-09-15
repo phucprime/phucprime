@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**phuccoder/phuccoder** is a ✨ _special_ ✨ repository.
+**phuccoder/phuccoder** is a ✨ _special_ ✨
 
 - 🔭 I’m currently working on Edgeworks.
 - 🌱 I’m currently learning QC.
