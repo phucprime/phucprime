@@ -2,7 +2,7 @@
 
 **phuccoder** is a ✨ _special_ ✨
 
-- 🔭 I’m currently working on Edgeworks.
+- 🔭 I’m currently working on EdgeWorks Software Ltd.
 - 🌱 I’m currently learning QC.
 - 👯 I’m looking to collaborate on everything.
 - 🤔 I’m looking for help with ...
