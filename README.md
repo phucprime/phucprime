@@ -3,13 +3,13 @@
 <div align="middle">
 <table style="border: none; margin: 2rem 0;">
 <tr>
-    <td style="border: none; padding: 0; margin: 0;"><a href='https://twitter.com/phucprime'><img src='https://i.imgur.com/FXOgA5B.png' width="25" style="margin: 0 0.7rem" /></a> </td>
-    <td style="border: none; padding: 0; margin: 0;"> <a href='https://www.instagram.com/espresso.ita/'><img src='https://i.imgur.com/yXhPfE1.png' width="25" style="margin: 0 0.7rem"/></a> </td>
-    <td style="border: none; padding: 0; margin: 0;"> <a href='https://www.linkedin.com/in/phucprime/'><img src='https://i.imgur.com/CdoJcI1.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+    <td style="border: none; padding: 0; margin: 0;"><a href='https://twitter.com/phucprime'><img src='https://i.imgur.com/zLEjZcY.png' width="25" style="margin: 0 0.7rem" /></a> </td>
+    <td style="border: none; padding: 0; margin: 0;"> <a href='https://www.instagram.com/espresso.ita/'><img src='https://i.imgur.com/yfIJ07S.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+    <td style="border: none; padding: 0; margin: 0;"> <a href='https://www.linkedin.com/in/phucprime/'><img src='https://i.imgur.com/lhMb0RA.png' width="25" style="margin: 0 0.7rem"/></a> </td>
     <td style="border: none; padding: 0; margin: 0;"> <a href='https://dev.to/phucprime'><img src='https://i.imgur.com/QydAniv.png' width="25" style="margin: 0 0.7rem"/></a> </td>
-    <td style="border: none; padding: 0; margin: 0;"> <a href='https://medium.com/@phucprime'><img src='https://i.imgur.com/xoHJKAJ.png' width="25" style="margin: 0 0.7rem"/></a> </td>
-    <td style="border: none; padding: 0; margin: 0;"> <a href='https://codepen.io/phucprime'><img src='https://i.imgur.com/f4Efo66.png' width="25" style="margin: 0 0.7rem"/></a> </td>
-    <td style="border: none; padding: 0; margin: 0;"> <a href='https://stackoverflow.com/users/11780040/phuc-nguyen'><img src='https://i.imgur.com/Kn80ieD.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+    <td style="border: none; padding: 0; margin: 0;"> <a href='https://medium.com/@phucprime'><img src='https://i.imgur.com/kKwX8Ga.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+    <td style="border: none; padding: 0; margin: 0;"> <a href='https://codepen.io/phucprime'><img src='https://i.imgur.com/aY1RDic.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+    <td style="border: none; padding: 0; margin: 0;"> <a href='https://stackoverflow.com/users/11780040/phuc-nguyen'><img src='https://i.imgur.com/7KVhfRX.png' width="30" style="margin: 0 0.7rem"/></a> </td>
 </tr>
 </table>
 </div>
