@@ -62,6 +62,9 @@
     <td style="border: none; padding: 0;"> 
         <img alt="ts" src="https://i.imgur.com/BNE03ru.png" width='35' style='margin-right: 1rem;' /> 
     </td>
+    <td style="border: none; padding: 0;"> 
+        <img alt="next" src="https://i.imgur.com/7sO7DI4.png" width='35' style='margin-right: 1rem;' /> 
+    </td>
     <td style="border: none; padding: 0;">
         <img alt="react" src="https://i.imgur.com/52AiCrr.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/> 
     </td>
