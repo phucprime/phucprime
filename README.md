@@ -1,5 +1,5 @@
 ### 🇻🇳 Hi there 👋
-> SOCIAL NETWORK & CONTACT INFORMATION 📲
+> SOCIAL NETWORK 📲
 <div align="middle">
 <table style="border: none; margin: 2rem 0;">
 <tr>
@@ -11,11 +11,6 @@
     <td style="border: none; padding: 0; margin: 0;">
         <a href='https://twitter.com/phucprime'>
             <img src='https://i.imgur.com/zLEjZcY.png' width="35" style="margin: 0 0.7rem" />
-        </a>
-    </td>
-    <td style="border: none; padding: 0; margin: 0;">
-        <a href='https://www.instagram.com/espresso.ita/'>
-            <img src='https://i.imgur.com/yfIJ07S.png' width="35" style="margin: 0 0.7rem"/>
         </a>
     </td>
     <td style="border: none; padding: 0; margin: 0;">
@@ -37,11 +32,6 @@
 <p align="middle">
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=phucprime&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
 </p>
-
-<div align="middle">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=phucprime&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucprime&layout=compact" />
-</div>
 
 > MY SKILLS ✍️
 
