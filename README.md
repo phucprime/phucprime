@@ -9,11 +9,6 @@
         </a>
     </td>
     <td style="border: none; padding: 0; margin: 0;">
-        <a href='https://twitter.com/phucprime'>
-            <img src='https://i.imgur.com/zLEjZcY.png' width="35" style="margin: 0 0.7rem" />
-        </a>
-    </td>
-    <td style="border: none; padding: 0; margin: 0;">
         <a href='https://www.linkedin.com/in/phucprime/'>
             <img src='https://i.imgur.com/lhMb0RA.png' width="35" style="margin: 0 0.7rem"/>
         </a> 
