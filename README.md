@@ -21,7 +21,7 @@ based in vietnam 🇻🇳, currently focused on mobile architecture, monorepos, 
 
 ### stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=phucprime&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" width="450" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phucprime&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
