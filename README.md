@@ -1,81 +1,33 @@
-### 🇻🇳 Hi there 👋
-> SOCIAL NETWORK 📲
-<div align="middle">
-<table style="border: none; margin: 2rem 0;">
-<tr>
-    <td style="border: none; padding: 0; margin: 0;">
-        <a href='mailto:phuccoder@gmail.com'>
-            <img src='https://i.imgur.com/L9ZfWvP.png' width="35" style="margin: 0 0.7rem" />
-        </a>
-    </td>
-    <td style="border: none; padding: 0; margin: 0;">
-        <a href='https://www.linkedin.com/in/phucprime/'>
-            <img src='https://i.imgur.com/lhMb0RA.png' width="35" style="margin: 0 0.7rem"/>
-        </a> 
-    </td>
-    <td style="border: none; padding: 0; margin: 0;"> 
-        <a href='https://stackoverflow.com/users/11780040/phuc-nguyen'>
-            <img src='https://i.imgur.com/7KVhfRX.png' width="35" style="margin: 0 0.7rem"/>
-        </a> 
-    </td>
-</tr>
-</table>
-</div>
+## hey, i'm phuc 👋
 
-> SUMMARY REPORT 📝
+i build mobile and web apps — mostly with **React Native**, **TypeScript**, and whatever gets the job done.
 
-<p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=phucprime&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
-</p>
+based in vietnam 🇻🇳, currently focused on mobile architecture, monorepos, and shipping things that actually work.
 
-> MY SKILLS ✍️
+---
 
-<div align="middle">
+### what i work with
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<table style="border: none;">
-<tr style="border: none; padding: 0; margin: 0;">
-    <td style="border: none; padding: 0; margin: 0;"> 
-        <img alt="html" src="https://i.imgur.com/Wo63eUu.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="css" src="https://i.imgur.com/3OFoRac.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="js" src="https://i.imgur.com/hrRfAmU.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="ts" src="https://i.imgur.com/BNE03ru.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="next" src="https://i.imgur.com/7sO7DI4.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;">
-        <img alt="react" src="https://i.imgur.com/52AiCrr.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="redux" src="https://i.imgur.com/hcOAsfS.png" width='35' style='margin-right: 1rem; margin-left: -15px;'/>
-    </td>
-    <td style="border: none; padding: 0;">
-        <img alt="graphql" src="https://i.imgur.com/GDy8OFa.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;">
-        <img alt="jest" src="https://i.imgur.com/yVqeAqT.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="figma" src="https://i.imgur.com/PG9Fb9a.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-    <td style="border: none; padding: 0;"> 
-        <img alt="pts" src="https://i.imgur.com/Q5vDDHk.png" width='35' style='margin-right: 1rem;' /> 
-    </td>
-</tr>
-</table>
-</div>
+---
 
-> MY SITE 🌍
+### stats
 
-<div align="middle">
-    <h3>
-       <a href="https://phucprime.netlify.app">PORTFOLIO SITE</a>
-    </h3>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=phucprime&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" width="450" />
+
+---
+
+### reach me
+
+[![Email](https://img.shields.io/badge/Email-phuccoder@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:phuccoder@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phucprime-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phucprime/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-phuc--nguyen-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11780040/phuc-nguyen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-phucprime.netlify.app-000000?style=flat&logo=netlify&logoColor=white)](https://phucprime.netlify.app)
